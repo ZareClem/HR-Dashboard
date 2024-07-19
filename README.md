@@ -36,5 +36,5 @@ Created visualizations using Tableau to represent the data clearly and effective
 Developed an interactive dashboard that allows users to explore the data and gain insights.
 Incorporated filters and drill-down capabilities for detailed analysis.
 
-![image](https://github.com/ZareClem/Minnesota_Interstate_Traffic_Volume_Dashboard/assets/138980152/e9079212-4c76-4867-8463-2f4abeafe409)
+![image](https://public.tableau.com/app/profile/clement.zare/viz/HRAnalyticsDashboard_17212057077110/HRAnalyticsDashboard)
 
