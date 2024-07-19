@@ -38,4 +38,22 @@ Incorporated filters and drill-down capabilities for detailed analysis.
 
 ![image](https://github.com/user-attachments/assets/044101ed-8c78-4394-9328-46aa0526c4bd)
 
-**##Business Questions Answered**
+**Business Questions Answered**
+
+***1. What is the current headcount of employees?***
+
+Provides the total number of employees currently working in the organization.
+
+***2. What are the monthly attrition rates?***
+Shows the percentage of employees leaving the company each month.
+***3. What is the attrition rate by department and gender?***
+Highlights which departments and gender groups have higher attrition rates.
+***4. What is the average age and age distribution of employees?***
+Offers insights into the age demographics of the workforce.
+***5. What is the job satisfaction rate among employees?***
+Measures the overall job satisfaction level within the company.
+***6. How do attrition rates vary over time and by demographic groups?***
+Analyzes trends and patterns in attrition rates over different time periods and among various demographic groups.
+***7. What factors contribute to higher attrition rates?***
+
+Identifies potential factors influencing employee turnover.
