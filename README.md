@@ -6,7 +6,8 @@
 The objective of this project is to create an HR dashboard that provides key insights into the workforce dynamics of an organization. The dashboard aims to help HR professionals and management make data-driven decisions by offering a comprehensive overview of employee headcount, attrition rates, demographics, and job satisfaction levels.
 
 **Approach
-Data Collection**
+Data Collection** 
+
 Gathered employee data from the company's HR database, including information on headcount, department, gender, age, job satisfaction, and attrition.
 
 **Data Cleaning and Preparation**
@@ -30,5 +31,6 @@ Gathered employee data from the company's HR database, including information on 
 Created visualizations using Tableau to represent the data clearly and effectively.Included charts and graphs for headcount trends, attrition rates, demographics, and job satisfaction.
 
 **Dashboard Development**
+
 Developed an interactive dashboard that allows users to explore the data and gain insights.
 Incorporated filters and drill-down capabilities for detailed analysis.
