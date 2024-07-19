@@ -35,5 +35,6 @@ Created visualizations using Tableau to represent the data clearly and effective
 
 Developed an interactive dashboard that allows users to explore the data and gain insights.
 Incorporated filters and drill-down capabilities for detailed analysis.
+
 ![image](https://public.tableau.com/app/profile/clement.zare/viz/HRAnalyticsDashboard_17212057077110/HRAnalyticsDashboard)
 
