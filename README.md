@@ -10,6 +10,7 @@ Gathered employee data from the company's HR database, including information on 
 **Data Cleaning and Preparation**
 
 1.Cleaned the data to remove duplicates and inconsistencies.
+
 2.Standardized the data formats for easier analysis.
 
 **Data Analysis**
