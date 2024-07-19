@@ -1,6 +1,8 @@
 # HR_Dashboard
 ## Objective
+
 [HR_Analytics_Dashboard](https://public.tableau.com/app/profile/clement.zare/viz/HRAnalyticsDashboard_17212057077110/HRAnalyticsDashboard)
+
 The objective of this project is to create an HR dashboard that provides key insights into the workforce dynamics of an organization. The dashboard aims to help HR professionals and management make data-driven decisions by offering a comprehensive overview of employee headcount, attrition rates, demographics, and job satisfaction levels.
 
 **Approach
